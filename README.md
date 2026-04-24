@@ -12,6 +12,7 @@ This method is particularly effective for:
 ### Option 1 — Run in Google Colab (recommended)
 
 No installation required.
+Open the link: https://gist.github.com/EvangelosAlevizos/6a5f32ae1c8c62faaeecddac248eca4b
 
 **Steps:**
 1. Upload a ZIP of your drone images
