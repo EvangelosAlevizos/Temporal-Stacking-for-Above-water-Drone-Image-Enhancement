@@ -40,10 +40,6 @@ sudo apt install exiftool
 
 2. Run the script
   temporal_stacking.py \
-  --input ./input_images \
-  --output ./output \
-  --chunk 11 \
-  --percentile 1
   
 
 | Parameter       | Description                                                |
