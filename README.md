@@ -38,7 +38,7 @@ brew install exiftool
 Linux:
 sudo apt install exiftool
 
-2. Run the script:
+#### 2. Run the script:
 temporal_stacking.py 
   
 
