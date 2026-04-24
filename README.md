@@ -38,8 +38,8 @@ brew install exiftool
 Linux:
 sudo apt install exiftool
 
-2. Run the script
-  temporal_stacking.py \
+2. Run the script:
+temporal_stacking.py 
   
 
 | Parameter       | Description                                                |
