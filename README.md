@@ -48,11 +48,11 @@ temporal_stacking.py \
 
 Parameter	Description
 --input	        Input folder with JPG images
---output	Output folder
+--output	      Output folder
 --chunk	        Number of images per scene
---percentile	Temporal filter: 0=min, 1=median, otherwise percentile
---downscale	Alignment scale factor (default: 0.25)
---no_metadata	Disable EXIF metadata copying
+--percentile	  Temporal filter: 0=min, 1=median, otherwise percentile
+--downscale	    Alignment scale factor (default: 0.25)
+--no_metadata	  Disable EXIF metadata copying
 
 
 Use Cases
