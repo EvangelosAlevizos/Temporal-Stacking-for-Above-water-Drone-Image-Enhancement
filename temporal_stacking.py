@@ -178,7 +178,7 @@ def process_images(args):
         out_name = f"filt_{os.path.basename(image_files[idxs[0]])}"
         out_path = os.path.join(output_dir, out_name)
 
-        imageio.imwrite(out_path, out_uint8)
+        imageio.imwrite(out_path, out_uint8, quality=95, subsampling=0)
 
         # Metadata copy
         if not args.no_metadata:
