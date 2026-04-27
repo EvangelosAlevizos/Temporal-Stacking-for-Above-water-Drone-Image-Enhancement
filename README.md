@@ -9,7 +9,7 @@ This method is particularly effective for:
 
 ## Quick Start
 
-### Option 1 — Run in Google Colab (recommended)
+### Option 1 Run in Google Colab (recommended)
 
 No installation required.
 Open the link: https://gist.github.com/EvangelosAlevizos/6a5f32ae1c8c62faaeecddac248eca4b
@@ -22,7 +22,7 @@ Open the link: https://gist.github.com/EvangelosAlevizos/6a5f32ae1c8c62faaeecdda
 
 ---
 
-### Option 2 — Run locally (Python script)
+### Option 2 Run locally (Python script)
 
 #### 1. Install dependencies
 
@@ -59,7 +59,7 @@ Benthic habitat monitoring
 Removing dynamic surface noise
 Improving photogrammetric reconstructions
 
-Citation / Attribution
+Citation
 
 If you use this method in your work, please consider citing:
 Alevizos, E. (2026). A temporal stacking tool for removing specular noise and caustics from shallow-water drone imagery (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19813852
