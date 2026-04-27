@@ -42,14 +42,14 @@ sudo apt install exiftool
 temporal_stacking.py 
   
 
-| Parameter       | Description                                                |
-| --------------- | ---------------------------------------------------------- |
-| `--input`       | Input folder with JPG images                               |
-| `--output`      | Output folder                                              |
-| `--chunk`       | Number of images per temporal group                        |
-| `--percentile`  | Temporal filter: `0=min`, `1=median`, otherwise percentile |
-| `--downscale`   | Alignment scale factor (default: 0.25)                     |
-| `--no_metadata` | Disable EXIF metadata copying                              |
+| Parameter       | Description                                                       |
+| --------------- | ----------------------------------------------------------------- |
+| `--input`       | Input folder with JPG images                                      |
+| `--output`      | Output folder                                                     |
+| `--chunk`       | Number of images per scene                                        |
+| `--percentile`  | Temporal filter: `0=min`, `1=median`, otherwise percentile value  |
+| `--downscale`   | Alignment scale factor (default: 0.25). Does not influence output.|
+| `--no_metadata` | Disable EXIF metadata copying (optional)                          |
 
 
 
@@ -59,12 +59,12 @@ Benthic habitat monitoring
 Removing dynamic surface noise
 Improving photogrammetric reconstructions
 
-Citation
+#### Citation
 
 If you use this method in your work, please consider citing:
 Alevizos, E. (2026). A temporal stacking tool for removing specular noise and caustics from shallow-water drone imagery (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19813852
 
 
-Author: Evangelos Alevizos 
+#### Author: Evangelos Alevizos 
 
-Contributions, Suggestions, improvements, and issues are welcome!
+#### Contributions, Suggestions, improvements, and issues are welcome!
