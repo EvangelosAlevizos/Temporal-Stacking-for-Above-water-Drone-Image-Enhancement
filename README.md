@@ -65,10 +65,6 @@ If you use this method in your work, please consider citing:
 Alevizos, E. (2026). A temporal stacking tool for removing specular noise and caustics from shallow-water drone imagery (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19813852
 
 
-Author
+Author: Evangelos Alevizos 
 
-Evangelos Alevizos 
-
-Contributions
-
-Suggestions, improvements, and issues are welcome!
+Contributions, Suggestions, improvements, and issues are welcome!
